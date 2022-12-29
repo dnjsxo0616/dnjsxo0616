@@ -8,6 +8,6 @@
 
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Won-Tae%20Han&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=300&section=header&text=WonTae%20Han&fontSize=90)
 
 </div>
