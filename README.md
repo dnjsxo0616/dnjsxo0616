@@ -1,13 +1,9 @@
-### Hi there 👋
+## 안녕하세요👋<div>개발 공부를 하고 있어요!
 
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnjsxo0616&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
-  </div>
+<div align=center><h1>📚 STACKS</h1></div>
 
-<div align=center>
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
 
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=300&section=header&text=WonTae%20Han&fontSize=70)
-
-</div>
+![dnjsxo0616's github stats](https://github-readme-stats.vercel.app/api?username=dnjsxo0616&show_icons=true)
